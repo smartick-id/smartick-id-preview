@@ -1,1 +1,0 @@
-# smartick-id-preview
