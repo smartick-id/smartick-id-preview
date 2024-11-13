@@ -1,0 +1,1 @@
+import{_ as t,v as s,W as o,t as a}from"./CkXMw6hv.js";const c={},n={class:"bg-white font-base"};function r(e,_){return a(),s("div",n,[o(e.$slots,"default")])}const l=t(c,[["render",r]]);export{l as default};
