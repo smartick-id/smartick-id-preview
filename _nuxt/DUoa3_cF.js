@@ -1,1 +1,0 @@
-import{_ as t,v as s,X as o,t as a}from"./ca9dSNdW.js";const c={},n={class:"bg-white font-base"};function r(e,_){return a(),s("div",n,[o(e.$slots,"default")])}const l=t(c,[["render",r]]);export{l as default};
